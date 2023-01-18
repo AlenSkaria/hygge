@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "On sale",
+    "pname": "Sun Cream",
+    "img": "/newarrivals/1.png",
+    "ogprice": "$20",
+    "rate": "$30",
+    "offer": "",
+    "icon": "/categoryicons/bag-shopping-solid.svg"
+  },
+  {
+    "id": 2,
+    "title": "Featured",
+    "pname": "Night Eye Cream",
+    "img": "/newarrivals/2.png",
+    "ogprice": "$50",
+    "rate": "$100",
+    "offer": "50% OFF",
+    "icon": "/categoryicons/chart-line-solid.svg"
+  },
+  {
+    "id": 3,
+    "title": "Masks",
+    "pname": "Acne Skin Gel",
+    "img": "/newarrivals/3.png",
+    "ogprice": "$25",
+    "rate": "",
+    "offer": "",
+    "icon": "/categoryicons/layer-group-solid.svg"
+  },
+  {
+    "id": 4,
+    "title": "Eye Care",
+    "pname": "Dry Skin Rescue",
+    "img": "/newarrivals/4.png",
+    "ogprice": "$59",
+    "rate": "",
+    "offer": "",
+    "icon": "/categoryicons/eye-solid.svg"
+  },
+  {
+    "id": 5,
+    "title": "Moisturizers",
+    "pname": "Body Protection",
+    "img": "/newarrivals/5.png",
+    "ogprice": "$32",
+    "rate": "",
+    "offer": "",
+    "icon": "/categoryicons/droplet-solid.svg"
+  },
+  {
+    "id": 6,
+    "title": "Treatments",
+    "pname": "All In One Gel",
+    "img": "/newarrivals/6.png",
+    "ogprice": "$79",
+    "rate": "",
+    "offer": "",
+    "icon": "/categoryicons/shield-halved-solid.svg"
+  },
+  {
+    "id": 7,
+    "title": "Night Care",
+    "pname": "Deep Treatment",
+    "img": "/newarrivals/7.png",
+    "ogprice": "$17",
+    "rate": "$22",
+    "offer": "5% OFF",
+    "icon": "/categoryicons/moon-solid.svg"
+  },
+  {
+    "id": 8,
+    "title": "Masks",
+    "pname": "Morning Shine",
+    "img": "/newarrivals/8.png",
+    "ogprice": "$14",
+    "rate": "",
+    "offer": "",
+    "icon": "/categoryicons/sun-solid.svg"
+  }
+]

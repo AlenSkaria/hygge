@@ -1,0 +1,78 @@
+.footer__main {
+  margin: 9rem 0 3rem 0;
+  padding: 3rem;
+  display: flex;
+  justify-content: space-between;
+}
+.copyright__section {
+}
+.copyright__section > p {
+  font-size: 16px;
+  margin: 0.4rem;
+}
+.copyright__section_logo {
+  display: flex;
+}
+.copyright__section_logo > img {
+  width: 32px;
+  margin-right: 0.6rem;
+}
+.copyright__section_logo > h4 {
+  font-size: 1.2rem;
+}
+
+.social__links {
+  margin-top: 2rem;
+  display: flex;
+  column-gap: 1.5rem;
+  cursor: pointer;
+}
+.social__links > img {
+  width: 20px;
+  height: 20px;
+  background-color: #f6f7fb;
+  padding: 1rem;
+  border-radius: 50%;
+}
+.company_alen {
+}
+.imp__tnc__links {
+  display: flex;
+  column-gap: 5rem;
+}
+.imp__tnc__links p {
+  margin: 0.3rem 0;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+  .footer__main {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 1rem;
+  }
+  .copyright__section,
+  .mob__categories,
+  .legal,
+  .company_alen {
+    width: 120px;
+  }
+  .copyright__section > p {
+    font-size: 14px;
+    width: 130px;
+    margin: 0.4rem;
+  }
+  .copyright__section_logo > img {
+    display: none;
+  }
+  .mob__categories > h3 {
+    font-size: 20px;
+  }
+  .social__links > img {
+    width: 18px;
+    height: 18px;
+    background: none;
+    padding: 0;
+  }
+}
