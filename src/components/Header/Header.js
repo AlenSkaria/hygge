@@ -24,7 +24,7 @@ function Header() {
           <PermIdentityOutlinedIcon />
         </div>
       </div>
-      <div className="header__bar__main__mob">
+      <div className="header__bar__main__mob  classalen">
         <div className="hamburger">
           <DragHandleOutlinedIcon />
         </div>

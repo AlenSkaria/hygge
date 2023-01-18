@@ -3,7 +3,7 @@ import "./Contents.css";
 import content from "../../jsons/category.json";
 function Contents() {
   return (
-    <div className="contents__main">
+    <div className="contents__main  classalen">
       <div className="contents__title">
         <h3>Browse by Category</h3>
       </div>

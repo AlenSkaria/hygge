@@ -73,6 +73,8 @@ p {
 .newarrivals__img > img {
   height: 184px;
 }
+.classalen {
+}
 .offer__overlay {
   font-size: 14px;
   position: absolute;
@@ -159,6 +161,8 @@ p {
   .category__alenmain {
     overflow-x: scroll;
     justify-content: flex-start;
+  }
+  .classalen {
   }
   .contents__title > h3 {
     font-family: "Montserrat";

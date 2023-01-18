@@ -25,7 +25,8 @@
   border-radius: 40px;
   cursor: pointer;
 }
-
+.classalen {
+}
 @media only screen and (max-width: 600px) {
   .cover__main {
     background: none;
@@ -59,5 +60,7 @@
     border-radius: 40px;
     cursor: pointer;
     margin-bottom: 2rem;
+  }
+  .classalen {
   }
 }
